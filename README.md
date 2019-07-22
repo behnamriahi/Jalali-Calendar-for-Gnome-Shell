@@ -3,7 +3,7 @@
 An extension for Gnome-Shell to show Jalali date and calendar (special thanks omid)
 
 
-![Screenshot](https://github.com/behnamriahi/Jalali-Calendar-for-Gnome-Shell/blob/master/JalaliCalendar%behnamriahi.ir/Screenshot.png?raw=true)
+![Screenshot](https://github.com/behnamriahi/Jalali-Calendar-for-Gnome-Shell/blob/master/JalaliCalendar%40behnamriahi.ir/Screenshot.png?raw=true)
 
 #### Installation:
 * ```git clone https://github.com/behnamriahi/Jalali-Calendar-for-Gnome-Shell.git```
